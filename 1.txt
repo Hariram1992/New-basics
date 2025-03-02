@@ -1,0 +1,1 @@
+select * from table having count(*)>1
